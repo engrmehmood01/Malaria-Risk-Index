@@ -1,4 +1,4 @@
-/**** Malaria Risk Index – Punjab (Pakistan)
+/**** Malaria Risk Index – Pakistan
  *   Composite index (0–1):
  *   LST 40%, NDVI 30%, Rainfall 30%
  *
