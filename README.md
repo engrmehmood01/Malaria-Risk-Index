@@ -75,7 +75,7 @@ Update these in the **USER SETTINGS** section:
 ## Notes / Limitations
 
 - This is a **relative environmental suitability index**, not confirmed epidemiological incidence.
-- The boundary currently uses a Pakistan feature collection asset; the export block references `punjab` but is commented and would need a Punjab boundary geometry if you want Punjab-only export.
+- The boundary currently uses a Pakistan feature collection asset; the export block references.
 
 ---
 
